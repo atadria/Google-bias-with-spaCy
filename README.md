@@ -22,3 +22,4 @@ engine - search engine google/bing
 
 ## Notebooks
 1) [Similarity analysis with spaCy](similarity.ipynb)
+2) [Dependency parsing with spaCy](dependency_parsing.ipynb)
