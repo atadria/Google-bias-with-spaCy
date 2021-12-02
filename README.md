@@ -1,5 +1,12 @@
 # Google bias analysis with spaCy
 
+## spaCy
+spaCy is a free, open-source library for advanced Natural Language Processing (NLP) in Python.  
+
+https://spacy.io/usage/spacy-101
+
+
+## Motivation
 [Google’s algorithms discriminate against women and people of colour](https://theconversation.com/googles-algorithms-discriminate-against-women-and-people-of-colour-112516)  
 or 
 [plan to exterminate the White race](https://atadria.github.io/Google-bias-with-spaCy/)?  
@@ -22,5 +29,6 @@ engine - search engine google/bing
 
 ## Notebooks
 1) [Similarity analysis with spaCy](similarity.ipynb)
-2) [Transformers with spaCy](transformers.ipynb)
-3) [Dependency parsing with spaCy](dependency_parsing.ipynb)
+2) [Dependency parsing with spaCy](dependency_parsing.ipynb)
+3) [Transformers with spaCy](transformers.ipynb)
+ 
